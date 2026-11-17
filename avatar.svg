@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#242344"/><stop offset="1" stop-color="#142c3d"/></linearGradient></defs>
+<rect width="600" height="600" rx="50" fill="url(#g)"/>
+<circle cx="300" cy="230" r="130" fill="#9b8cff" opacity=".12"/>
+<path d="M105 545c18-122 91-185 195-185s177 63 195 185" fill="#9b8cff" opacity=".25"/>
+<circle cx="300" cy="235" r="105" fill="#c4baff" opacity=".8"/>
+<text x="300" y="270" text-anchor="middle" font-family="Arial,sans-serif" font-size="88" font-weight="700" fill="#17152b">IAF</text>
+<text x="300" y="500" text-anchor="middle" font-family="Arial,sans-serif" font-size="22" letter-spacing="5" fill="#d7d9e7">PORTFÓLIO</text>
+</svg>
